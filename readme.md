@@ -3,6 +3,9 @@
 
 Essa documentação mostra como levantar uma infraestrutura de um Nginx server na AWS utilizando o terraform
 
+## Requisitos
+- terraform 1.12~
+- AWS Cli
 
 <br/>
 
